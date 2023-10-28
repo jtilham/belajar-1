@@ -24,4 +24,5 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 #belajar-1
 # belajar-1
 belajar-1 : Appbar and Link (Next Js and Mui Framework)
+<img width="915" alt="appbar" src="https://github.com/jtilham/belajar-1/assets/44431152/3be3118b-a15e-4493-9b90-2dd47cd88f6b">
 
